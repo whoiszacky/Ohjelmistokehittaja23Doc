@@ -1,0 +1,10 @@
+@media screen and (max-width: 992px) {
+    body :not(.keep-visible) {
+      display: none;
+    }
+}
+    
+    
+* {
+    caret-color: transparent;
+}
