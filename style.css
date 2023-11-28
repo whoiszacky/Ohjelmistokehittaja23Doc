@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+#note{
+  font-family: 'Nabla', cursive;
+}
+
+
+
 @media screen and (max-width: 992px) {
     body :not(.keep-visible) {
       display: none;
